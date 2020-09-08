@@ -1,0 +1,18 @@
+{
+
+   "QA Practices" :[
+                     "Software Testing" ,
+                     "Agile & Scrum" ,
+                     "ISTQB Simulator"
+   ],
+   
+   "Front-End Testing Automation":[
+                      "Cypress",
+                      "Protractor",
+                      "Telerik Test Studioi",
+                      "Katalon Studio",
+                      "Selenium in Java",
+                      "Selenium in C Sharp",
+                      "Selenium IDE"
+   ]
+}
