@@ -16,7 +16,7 @@ public class ReadJson {
 			JSONObject jObject = (JSONObject) unitObj;
 			JSONArray jArray = (JSONArray) jObject.get(topicname);
 			System.out.println(jArray);
-			for (int i = 0; i < jArray.size(); i++) {
+			for (int i = 0; i < jArray.size()-1; i++) {
 				System.out.println(jArray.get(i));
 			}	
 			
